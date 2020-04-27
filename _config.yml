@@ -13,7 +13,7 @@ author: Kaan Bodur
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  Blog: 
   Author's home: "https://kaanbodur.github.io/home
 
 # --- Logo --- #
