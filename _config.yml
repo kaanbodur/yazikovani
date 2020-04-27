@@ -13,7 +13,9 @@ author: Kaan Bodur
 
 navbar-links:
   About Me: "aboutme"
-  Resources: 
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "https://kaanbodur.github.io/home
 
 # --- Logo --- #
