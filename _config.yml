@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Kaan's Diary
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: La Viro de Kafo
 
 # Your name to show in the footer
-author: Some Person
+author: Kaan Bodur  
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Test: "http://www.markdowntutorial.com/"
+  Author's home: "https://kaanbodur.github.io/home"
 
 # --- Logo --- #
 
