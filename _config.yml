@@ -13,12 +13,8 @@ author: Kaan Bodur
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Test: "http://www.markdowntutorial.com/"
-  Author's home: "https://kaanbodur.github.io/home"
   Blog: "blog"
+ 
 
 # --- Logo --- #
 
@@ -40,13 +36,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "kaanbodur@gmail.com"
+  #facebook: deanattali
+  github: kaanbodur
+  #twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+linkedin: kaanbodur
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -165,13 +161,12 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Istanbul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
-paginate_path: "/blog/page:4/"
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
