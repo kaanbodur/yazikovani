@@ -8,6 +8,10 @@ bigimg:
 use-site-title: true
 css: '/css/extend-home.css'
 ---
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
 <div class="list-filters">
   <a href="/" class="list-filter filter-selected">All posts</a>
   <a href="/blog" class="list-filter">Blog</a>

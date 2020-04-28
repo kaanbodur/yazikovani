@@ -14,12 +14,11 @@ author: Kaan Bodur
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
-search: "search"
-nav-search: "search"
+
 
 # --- Google custom search config --- #
 # search page name search -> /seach.md
-#nav-search: "search"
+nav-search: "search"
 # google-site-verification
 #google-site-verification: ''
 
