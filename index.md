@@ -8,25 +8,10 @@ bigimg:
 use-site-title: true
 css: '/css/extend-home.css'
 ---
-## <h1 class="text-center">Quick Links</h1>
-
-<div class="spacer"></div>
-
-<div class="row text-center">
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="list-filters">
-      <a href="/aboutme" class="list-filter filter-selected">About Me</a>
-    </div>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="list-filters">
-      <a href="/blog" class="list-filter">Blog</a>
-    </div>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="list-filters">
-      <a href="/search" class="list-filter">Search</a>
-    </div>
+<div style="text-align:center">
+<strong>Quick Links:</strong> &nbsp;&nbsp; 
+<a href="/blog" role="button" class="btn btn-primary">Blog</a> 
+<a href="/aboutme" role="button" class="btn btn-primary">About Me</a> 
 </div>
 
 <h1 class="text-center">Recent Posts</h1>
