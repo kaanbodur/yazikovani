@@ -48,5 +48,5 @@ Normal uykudaki deneği kısa sürede REM uykusuna sokmak üzerine yapılan bir 
 
 Ursula Le Guin'i biraz daha iyi tanımak için belki de aşağıdaki konuşmasını dinlemek gerekiyor. Yazıyı da yine kendisi ile bitirelim.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3ty4mSWEzHk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ty4mSWEzHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
