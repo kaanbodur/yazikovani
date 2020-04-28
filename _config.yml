@@ -14,8 +14,12 @@ author: Kaan Bodur
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
+
+# --- Google custom search config --- #
+# search page name search -> /seach.md
 nav-search: "search"
- 
+# google-site-verification
+#google-site-verification: ''
 
 # --- Logo --- #
 
@@ -41,6 +45,7 @@ social-network-links:
   #facebook: deanattali
   github: kaanbodur
   #twitter: daattali
+  linkedin: kaanbodur
   rss: true
 #  reddit: yourname
 linkedin: kaanbodur
