@@ -15,17 +15,18 @@ css: '/css/extend-home.css'
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="list-filters">
-      <a href="/" class="list-filter filter-selected">All posts</a>
+      <a href="/aboutme" class="list-filter filter-selected">About Me</a>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="list-filters">
-      <a href="/popular" class="list-filter">Most Popular</a>
+      <a href="/blog" class="list-filter">Blog</a>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <a href="/tutorials" class="list-filter">Tutorials</a>
-  </div>
+    <div class="list-filters">
+      <a href="/search" class="list-filter">Search</a>
+    </div>
 </div>
 
 <h1 class="text-center">Recent Posts</h1>
