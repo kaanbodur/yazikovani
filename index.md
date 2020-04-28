@@ -4,7 +4,7 @@ title: Welcome
 show-avatar: true
 subtitle: ...to my personal blog.
 bigimg:
-- 'img/bigimg/candle.png': "Home"
+- 'img/bigimg/candle.jpg'
 use-site-title: true
 css: '/css/extend-home.css'
 ---
