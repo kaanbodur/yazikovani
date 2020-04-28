@@ -9,7 +9,7 @@ use-site-title: true
 css: '/css/extend-home.css'
 ---
 <div style="text-align:center">
-<strong>Quick Links:</strong> &nbsp;&nbsp; 
+<strong></strong> &nbsp;&nbsp; 
 <a href="/blog" role="button" class="btn btn-primary">Blog</a> 
 <a href="/aboutme" role="button" class="btn btn-primary">About Me</a> 
 </div>
