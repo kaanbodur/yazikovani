@@ -8,7 +8,7 @@ bigimg:
 use-site-title: true
 css: '/css/extend-home.css'
 ---
-<h1 class="text-center">Quick Links</h1>
+## <h1 class="text-center">Quick Links</h1>
 
 <div class="spacer"></div>
 
