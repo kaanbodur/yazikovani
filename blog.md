@@ -3,7 +3,7 @@ layout: page
 title: Blog
 subtitle: Recent posts
 bigimg:
-- img/bigimg/writing.jpg': "Home"
+- img/bigimg/writing.jpg'
 show-avatar : true
 ---
 
