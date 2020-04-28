@@ -14,6 +14,7 @@ author: Kaan Bodur
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
+search: "search"
 nav-search: "search"
 
 # --- Google custom search config --- #
@@ -49,7 +50,7 @@ social-network-links:
   linkedin: kaanbodur
   rss: true
 #  reddit: yourname
-linkedin: kaanbodur
+# linkedin: kaanbodur
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

@@ -8,6 +8,12 @@ bigimg:
 use-site-title: true
 css: '/css/extend-home.css'
 ---
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/blog" class="list-filter">Blog</a>
+  <a href="/aboutme" class="list-filter">About Me</a>
+</div>
+
 <h1 class="text-center">Recent Posts</h1>
 <div class="spacer"></div>
 
