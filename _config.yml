@@ -14,6 +14,7 @@ author: Kaan Bodur
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
+  Search: "search"
 
 
 # --- Google custom search config --- #
