@@ -12,7 +12,10 @@ css: '/css/extend-home.css'
 <strong></strong> &nbsp;&nbsp; 
 <a href="/blog" role="button" class="btn btn-primary">Blog</a> 
 <a href="/aboutme" role="button" class="btn btn-primary">About Me</a> 
+<a href="/search" role="button" class="btn btn-primary">Search</a> 
 </div>
+
+<div class="spacer"></div>
 
 <h1 class="text-center">Recent Posts</h1>
 <div class="spacer"></div>
