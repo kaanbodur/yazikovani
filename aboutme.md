@@ -16,7 +16,7 @@ Take a look at this [Projects]() page to get an overview of my current work.
 
 I'm very interested in **Python**, **Data Analysis**, **Machine Learning**.
 
-Additionally I love brewing **coffee**.
+Additionally I love brewing **coffee**, writing with **fountain pens**.
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 *Here comes a list of subjects I've worked with, grouped by topics...*
@@ -40,7 +40,6 @@ SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; Aut
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
 
 Turkish Aerospace, which ranks among the top hundred global players in aerospace and defence arena, based its business on five strategic pillars as shown below;
-
 - Aerostructures Group,
 - Aircraft Group,
 - Helicopter Group,
@@ -51,8 +50,15 @@ Turkish Aerospace, which ranks among the top hundred global players in aerospace
 
 Profen is a global group company with an in-house Research & Development center that provides products and services in the following major markets: Satellite Communications, Military and Defence, Cable & Terrestrial Networks, Broadcast & Media, EPC and Life Sciences. With its headquarters in Istanbul and branch offices in Ankara, Konya and Tewkesbury (United Kingdom), Profen delivers innovative and high technology solutions to customers worldwide.
 
-As a Project Management Team Lead & Product Planning Engineer my responsibilities are;
+As a *Project Management Team Lead* (2019/3 - 2019/10)
+- Project Management with Agile Approach
+- Management and Analysis of the team actions
+- Sharepoint Infrastructure Management
+- PowerBI Report Design
+- Designing Management Dashboards with PowerBI & Sharepoint
+- Intergrating project management processes with MS SharePoint & PowerBI & Microsoft Teams & MS Planner & Power Automate
 
+As a *Product Planning Engineer* (2016/10-2019/03)
 - Managing International Partner Relations
 - Research for New Products
 - Reviewing Technical Requirement Documents
@@ -62,7 +68,7 @@ As a Project Management Team Lead & Product Planning Engineer my responsibilitie
 - Managing procurements
 - Forming cash flow tables for finance & purchasing
 - Expanding system solutions to new areas
-- Project Management with Agile Approach
+
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
 
