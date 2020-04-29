@@ -2,6 +2,10 @@
 layout: post
 title: Rüyanın Öte Yakası - Ursula K. Le Guin
 image: /assets/img/blog_images/efendi.jpg
+show-avatar: true
+category: blog
+tags: [General]
+css: '/css/extend-home.css'
 ---
 
 Fantastik kurgu denilince akla ilk gelen yazarlardan biri şüphesiz Ursula K. Le Guin. En sevdiğim yazarlardan biri olduğunu da belirteyim. Olmaz denilenin olabileceğini gösteren, bunu yaparken de eleştirel yaklaşmayı çok iyi başaran bir yazar kendisi. Le Guin, farklı konular ve farklı kurgular ile okuyucularının karşısına çıkmayı seviyor. Bu yazıda yazarın rüya konusunu kendine has üslubuyla işlediği "Rüyanın Öte Yakası" adlı eserinden bahsedeceğim. Yazarın daha önce okuduğum "Dünyaya Orman Denir" isimli kitabında da rüya ya da oradaki adıyla düş görme önemli bir konuyken bu romanda ise doğrudan kurgunun ana teması olarak karşımıza çıkıyor.
