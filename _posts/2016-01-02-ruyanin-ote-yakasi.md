@@ -4,7 +4,7 @@ title: Rüyanın Öte Yakası - Ursula K. Le Guin
 image: /assets/img/blog_images/efendi.jpg
 show-avatar: true
 category: blog
-tags: [General]
+tags: [Türkçe, Blog, Bilim-Kurgu]
 css: '/css/extend-home.css'
 ---
 

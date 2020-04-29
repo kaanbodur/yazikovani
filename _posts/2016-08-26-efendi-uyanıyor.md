@@ -2,6 +2,10 @@
 layout: post
 title: Efendi Uyanıyor - H.G. Wells
 image: /assets/img/blog_images/efendi.jpg
+show-avatar: true
+category: blog
+tags: [Türkçe, Blog, Bilim-Kurgu]
+css: '/css/extend-home.css'
 ---
 
 Distopya denince akla gelen ve bir çırpıda sayılabilecek popüler romanlar bulunuyor. İlk distopya eserlerinden biri olarak nitelendirilen H.G Wells'in Efendi Uyanıyor - orj. The Sleeper Awakes- adlı romanını, benzeri diğer eserlerin biraz da gölgesinde kalmış olsa gerek, diğerlerine göre oldukça geç okudum. H.G Wells  bu eserine 1898 - 1903 yılları arasında seri olarak devam etmiş ve ardından 1910 yılında da ciddi eklemeler yaparak Efendi Uyanıyor ismiyle roman olarak yayımlanmış.
