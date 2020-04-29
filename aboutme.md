@@ -36,7 +36,7 @@ Microsoft Windows 98SE - 10 &bull;  GNU/Linux
 SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GNU Octave 
 
 ---
-
+---
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
@@ -48,7 +48,7 @@ Turkish Aerospace, which ranks among the top hundred global players in aerospace
 - Helicopter Group,
 - UAS Group,
 - Space Systems Group
-
+---
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
 
 Profen is a global group company with an in-house Research & Development center that provides products and services in the following major markets: Satellite Communications, Military and Defence, Cable & Terrestrial Networks, Broadcast & Media, EPC and Life Sciences. With its headquarters in Istanbul and branch offices in Ankara, Konya and Tewkesbury (United Kingdom), Profen delivers innovative and high technology solutions to customers worldwide.
@@ -65,7 +65,7 @@ As a Project Management Team Lead & Product Planning Engineer my responsibilitie
 - Forming cash flow tables for finance & purchasing
 - Expanding system solutions to new areas
 - Project Management with Agile Approach
-
+---
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
 
 - Devoloping algorithms with Python and Labview to simulate microfabrication process
@@ -74,13 +74,13 @@ As a Project Management Team Lead & Product Planning Engineer my responsibilitie
 - Dry Chemical Etching
 - Deposition Techniques
 - Deep Reactive-Ion-Etching
-
+---
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2013 <i class="fa fa-building-o" aria-hidden="true"></i> [Ford OTOSAN](https://www.fordotosan.com.tr/en) as **Intern**
-
+---
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [İETT - Motor Yenileme Fabrikası](https://iett.istanbul/en/) as **Intern**
 
 ---
-
+---
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
 - 2015 - (cont) : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30
@@ -94,5 +94,5 @@ As a Project Management Team Lead & Product Planning Engineer my responsibilitie
 ---
 
 ### <i class="fas fa-pen-nib" aria-hidden="true"></i> Publications
-- [Implementation and Standardization of 3D Optical Circuit Patterns by Development of 21⁄2D Direct-Write System](https://www.dropbox.com/s/230nt8j8xffhqmq/NanoTR12_Kaan_Bodur.pdf?dl=0)
+- [Implementation and Standardization of 3D Optical Circuit Patterns by Development of 2 1⁄2 D Direct-Write System](https://www.dropbox.com/s/230nt8j8xffhqmq/NanoTR12_Kaan_Bodur.pdf?dl=0)
 - [Autonomously Driving and Aiming Tracked Land Vehicle Design](http://tok2015.pau.edu.tr/BildirilerKitabi/176.pdf)
