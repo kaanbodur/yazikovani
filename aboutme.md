@@ -41,10 +41,19 @@ SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; Aut
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
 
-I spent the second half of the year creating a single-page application based on [Vue.js](https://vuejs.org/) for visualizing product changelog and configuration details.
-Therefore I had to relearn javaScript and started working with the [materialize-css](https://materializecss.com/) framework and other well known node modules.
+Turkish Aerospace, which ranks among the top hundred global players in aerospace and defence arena, based its business on five strategic pillars as shown below;
+
+- Aerostructures Group,
+- Aircraft Group,
+- Helicopter Group,
+- UAS Group,
+- Space Systems Group
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
+
+Profen is a global group company with an in-house Research & Development center that provides products and services in the following major markets: Satellite Communications, Military and Defence, Cable & Terrestrial Networks, Broadcast & Media, EPC and Life Sciences. With its headquarters in Istanbul and branch offices in Ankara, Konya and Tewkesbury (United Kingdom), Profen delivers innovative and high technology solutions to customers worldwide.
+
+As a Project Management Team Lead & Product Planning Engineer my responsibilities are;
 
 - Managing International Partner Relations
 - Research for New Products
@@ -84,6 +93,6 @@ Therefore I had to relearn javaScript and started working with the [materialize-
 
 ---
 
-### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications
+### <i class="fas fa-pen-nib" aria-hidden="true"></i> Publications
 - [Implementation and Standardization of 3D Optical Circuit Patterns by Development of 21⁄2D Direct-Write System](https://www.dropbox.com/s/230nt8j8xffhqmq/NanoTR12_Kaan_Bodur.pdf?dl=0)
 - [Autonomously Driving and Aiming Tracked Land Vehicle Design](http://tok2015.pau.edu.tr/BildirilerKitabi/176.pdf)
