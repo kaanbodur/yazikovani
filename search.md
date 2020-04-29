@@ -2,6 +2,8 @@
 layout: default
 permalink: "search"
 title: "Search"
+bigimg:
+- 'img/bigimg/search.jpg'
 css: "/css/search.css"
 ---
 
