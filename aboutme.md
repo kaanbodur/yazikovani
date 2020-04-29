@@ -39,7 +39,7 @@ SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; Aut
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
-#### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-question" aria-hidden="true"></i><i class="fa fa-question" aria-hidden="true"></i> <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
 
 I spent the second half of the year creating a single-page application based on [Vue.js](https://vuejs.org/) for visualizing product changelog and configuration details.
 Therefore I had to relearn javaScript and started working with the [materialize-css](https://materializecss.com/) framework and other well known node modules.
