@@ -31,10 +31,6 @@ Python &bull; Octave &bull;
 
 Microsoft Windows 98SE - 10 &bull;  GNU/Linux
 
-#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud Orchestration and Automation
-
-eCloud Manager &bull; FLOWSTER Studio &bull; Citrix Cloud Platform &bull; Citrix Cloud Platform Business Manager
-
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
 SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GNU Octave 
@@ -50,20 +46,46 @@ Therefore I had to relearn javaScript and started working with the [materialize-
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
 
-<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2019**&nbsp;&nbsp; In early 2019 I started ......
+- Managing International Partner Relations
+- Research for New Products
+- Reviewing Technical Requirement Documents
+- Reviewing Data sheets
+- Participating Factory Acceptance Tests
+- Planning optimum products regarding reasonable cost, performance, fast lead time.
+- Managing procurements
+- Forming cash flow tables for finance & purchasing
+- Expanding system solutions to new areas
+- Project Management with Agile Approach
 
-<i class="fa fa-calendar-plus-o" aria-hidden="true"></i> **2016-2019**&nbsp;&nbsp; As the automation team got bigger and bigger, we needed to define
-standards. That's why I began using [Phabricator](https://www.phacility.com/phabricator/) as a developer framework in
-combination with [Jenkins](https://jenkins.io/) to build our modules. This enabled us doing code review, lint tests,
-unit test and building our own CI Environment.
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory]() as **Researcher**
 
-#### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 <i class="fa fa-building-o" aria-hidden="true"></i> [ITU Nanopsys Research Lab]() as **Researcher**
+- Devoloping algorithms with Python and Labview to simulate microfabrication process
+- Performing Microfabrication Processes
+- Optical Lithography
+- Dry Chemical Etching
+- Deposition Techniques
+- Deep Reactive-Ion-Etching
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2013 <i class="fa fa-building-o" aria-hidden="true"></i> [Ford OTOSAN](https://www.fordotosan.com.tr/en) as **Intern**
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [İETT - Motor Yenileme Fabrikası](https://iett.istanbul/en/) as **Intern**
 
 ---
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-- 2009 - 2014 **Yıldız Technical University** - *Mechanical Engineering (BSc)* - GPA 3,16
-- 2014 - 2019 **Istanbul University** - *Sociology (BA)* - GPA 3,15
-- 2018 - 2019 **Işık University** - *Master of Business Administration (MBA)* - GPA 3,15
-- 2015 - (cont) | **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30
+- 2015 - (cont) : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30
+- 2018 - 2019 : **Işık University** - *Master of Business Administration (MBA)* - GPA 3,15
+- 2014 - 2019 : **Istanbul University** - *Sociology (BA)* - GPA 3,15
+- 2009 - 2014 :  **Yıldız Technical University** - *Mechanical Engineering (BSc)* - GPA 3,16
+
+---
+### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Certificates
+
+- 
+
+---
+
+### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications
+- [Implementation and Standardization of 3D Optical Circuit Patterns by Development of 21⁄2D Direct-Write System](https://www.dropbox.com/s/230nt8j8xffhqmq/NanoTR12_Kaan_Bodur.pdf?dl=0)
+- [Autonomously Driving and Aiming Tracked Land Vehicle Design](http://tok2015.pau.edu.tr/BildirilerKitabi/176.pdf)
