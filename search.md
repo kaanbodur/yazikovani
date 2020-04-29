@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: "search"
 title: "Search"
 bigimg:
