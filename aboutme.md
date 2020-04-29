@@ -12,5 +12,3 @@ More to come here..
 ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
 
 Take a look at this [Projects]() page to get an overview of my current work.
-
-### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
