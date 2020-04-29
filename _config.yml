@@ -13,8 +13,9 @@ author: Kaan Bodur
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
-  Tags: "https://kaanbodur.github.io/tags/"
+  Blog:
+    - Posts: "blog"
+    - Tags: "tags"
   Search: "search"
 
 
