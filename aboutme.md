@@ -48,6 +48,8 @@ Turkish Aerospace, which ranks among the top hundred global players in aerospace
 - Space Systems Group
 
 
+
+
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
 
 
@@ -73,6 +75,8 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 - Expanding system solutions to new areas
 
 
+
+
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
 
 
@@ -84,7 +88,11 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 - Deep Reactive-Ion-Etching
 
 
+
+
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2013 <i class="fa fa-building-o" aria-hidden="true"></i> [Ford OTOSAN](https://www.fordotosan.com.tr/en) as **Intern**
+
+
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [İETT - Motor Yenileme Fabrikası](https://iett.istanbul/en/) as **Intern**
@@ -94,7 +102,7 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-- 2015 - (cont) : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30
+- 2015 - (cont) : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30 
 - 2018 - 2019 : **Işık University** - *Master of Business Administration (MBA)* - GPA 3,15
 - 2014 - 2019 : **Istanbul University** - *Sociology (BA)* - GPA 3,15
 - 2009 - 2014 :  **Yıldız Technical University** - *Mechanical Engineering (BSc)* - GPA 3,16
