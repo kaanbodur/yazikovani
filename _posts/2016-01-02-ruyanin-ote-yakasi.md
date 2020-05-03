@@ -52,5 +52,5 @@ Normal uykudaki deneği kısa sürede REM uykusuna sokmak üzerine yapılan bir 
 
 Ursula Le Guin'i biraz daha iyi tanımak için belki de aşağıdaki konuşmasını dinlemek gerekiyor. Yazıyı da yine kendisi ile bitirelim.
 
-[YouTube | Ursula Le Guin / ABD Ulusal Kitap Ödülleri / 19 Kasım 2014](https://www.youtube.com/watch?v=3ty4mSWEzHk&feature=emb_title)
+[YouTube - Ursula Le Guin / ABD Ulusal Kitap Ödülleri / 19 Kasım 2014](https://www.youtube.com/watch?v=3ty4mSWEzHk&feature=emb_title)
 
