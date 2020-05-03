@@ -38,7 +38,6 @@ Tableau &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GN
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
-
 Turkish Aerospace, which ranks among the top hundred global players in aerospace and defence arena, based its business on five strategic pillars as shown below;
 - Aerostructures Group,
 - Aircraft Group,
@@ -49,7 +48,6 @@ Turkish Aerospace, which ranks among the top hundred global players in aerospace
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
-
 Profen is a global group company with an in-house Research & Development center that provides products and services in the following major markets: Satellite Communications, Military and Defence, Cable & Terrestrial Networks, Broadcast & Media, EPC and Life Sciences. With its headquarters in Istanbul and branch offices in Ankara, Konya and Tewkesbury (United Kingdom), Profen delivers innovative and high technology solutions to customers worldwide.
 
 As a *Project Management Team Lead* (2019/3 - 2019/10)
@@ -74,7 +72,6 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
-
 - Devoloping algorithms with Python and Labview to simulate microfabrication process
 - Performing Microfabrication Processes
 - Optical Lithography
