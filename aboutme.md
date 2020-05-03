@@ -23,15 +23,15 @@ Additionally I love brewing **coffee**, writing with **fountain pens**.
 
 #### <i class="fa fa-code" aria-hidden="true"></i> Programming Languages
 
-Python &bull; Octave &bull; 
+Python &bull; 
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
 
-Microsoft Windows 98SE - 10 &bull;  GNU/Linux
+Windows  &bull;  GNU/Linux
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-SharePoint &bull; Tableau &bull; VSCode &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GNU Octave 
+Tableau &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GNU Octave &bull; SharePoint &bull; VSCode &bull;
 
 ---
 
@@ -45,6 +45,8 @@ Turkish Aerospace, which ranks among the top hundred global players in aerospace
 - Helicopter Group,
 - UAS Group,
 - Space Systems Group
+
+
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
 
@@ -70,6 +72,7 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 - Expanding system solutions to new areas
 
 
+
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
 
 - Devoloping algorithms with Python and Labview to simulate microfabrication process
@@ -80,7 +83,9 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 - Deep Reactive-Ion-Etching
 
 
+
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2013 <i class="fa fa-building-o" aria-hidden="true"></i> [Ford OTOSAN](https://www.fordotosan.com.tr/en) as **Intern**
+
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2012 <i class="fa fa-building-o" aria-hidden="true"></i> [İETT - Motor Yenileme Fabrikası](https://iett.istanbul/en/) as **Intern**
