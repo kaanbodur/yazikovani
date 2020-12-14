@@ -40,52 +40,14 @@ Tableau &bull; PowerBI &bull; LabVIEW &bull; AutoCAD &bull; Solidworks &bull; GN
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2019 - present : <i class="fa fa-building-o" aria-hidden="true"></i> [Turkish Aerospcae](https://www.tai.com.tr) as **Technology Management Specialist** 
 
 
-Turkish Aerospace, which ranks among the top hundred global players in aerospace and defence arena, based its business on five strategic pillars as shown below;
-- Aerostructures Group,
-- Aircraft Group,
-- Helicopter Group,
-- UAS Group,
-- Space Systems Group
-
-
-
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2016 - 2019 : <i class="fa fa-building-o" aria-hidden="true"></i> [Profen Group](www.profen.com) as Project Management Team Lead & Product Planning Engineer
 
-
-Profen is a global group company with an in-house Research & Development center that provides products and services in the following major markets: Satellite Communications, Military and Defence, Cable & Terrestrial Networks, Broadcast & Media, EPC and Life Sciences. With its headquarters in Istanbul and branch offices in Ankara, Konya and Tewkesbury (United Kingdom), Profen delivers innovative and high technology solutions to customers worldwide.
-
-As a *Project Management Team Lead* (2019/3 - 2019/10)
-- Project Management with Agile Approach
-- Management and Analysis of the team actions
-- Sharepoint Infrastructure Management
-- PowerBI Report Design
-- Designing Management Dashboards with PowerBI & Sharepoint
-- Intergrating project management processes with MS SharePoint & PowerBI & Microsoft Teams & MS Planner & Power Automate
-
-As a *Product Planning Engineer* (2016/10-2019/03)
-- Managing International Partner Relations
-- Research for New Products
-- Reviewing Technical Requirement Documents
-- Reviewing Data sheets
-- Participating Factory Acceptance Tests
-- Planning optimum products regarding reasonable cost, performance, fast lead time.
-- Managing procurements
-- Forming cash flow tables for finance & purchasing
-- Expanding system solutions to new areas
 
 
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2014 - 2016 : <i class="fa fa-building-o" aria-hidden="true"></i> [ITU  Nanophotonic Systems Research Laboratory](http://itulabs.itu.edu.tr) as **Researcher**
-
-
-- Devoloping algorithms with Python and Labview to simulate microfabrication process
-- Performing Microfabrication Processes
-- Optical Lithography
-- Dry Chemical Etching
-- Deposition Techniques
-- Deep Reactive-Ion-Etching
 
 
 
@@ -102,10 +64,10 @@ As a *Product Planning Engineer* (2016/10-2019/03)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-- 2015 - (cont) : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30 
-- 2018 - 2019 : **Işık University** - *Master of Business Administration (MBA)* - GPA 3,15
-- 2014 - 2019 : **Istanbul University** - *Sociology (BA)* - GPA 3,15
-- 2009 - 2014 :  **Yıldız Technical University** - *Mechanical Engineering (BSc)* - GPA 3,16
+- 2021 : **Istanbul Technical University** - *Mechatronics Engineering (MSc)* - GPA 3,30 
+- 2019 : **Işık University** - *Master of Business Administration (MBA)* - GPA 3,15
+- 2019 : **Istanbul University** - *Sociology (BA)* - GPA 3,15
+- 2014 :  **Yıldız Technical University** - *Mechanical Engineering (BSc)* - GPA 3,16
 
 ---
 ### <i class="fas fa-certificate" aria-hidden="true"></i> Certificates
