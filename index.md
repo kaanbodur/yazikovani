@@ -10,9 +10,9 @@ css: '/css/extend-home.css'
 ---
 <div style="text-align:center">
 <strong></strong> &nbsp;&nbsp; 
-<a href="/blog" role="button" class="btn btn-primary">Blog</a> 
-<a href="/aboutme" role="button" class="btn btn-primary">About Me</a> 
-<a href="/search" role="button" class="btn btn-primary">Search</a> 
+<a href="{{site.baseurl}}/blog" role="button" class="btn btn-primary">Blog</a> 
+<a href="{{site.baseurl}}/aboutme" role="button" class="btn btn-primary">About Me</a> 
+<a href="{{site.baseurl}}/search" role="button" class="btn btn-primary">Search</a> 
 </div>
 
 <div class="spacer"></div>
