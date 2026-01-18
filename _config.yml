@@ -9,6 +9,10 @@ description: Personal Website
 # Your name to show in the footer
 author: Kaan Bodur  
 
+# URL settings
+url: "https://kaanbodur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/yazikovani" # the subpath of your site, e.g. /blog
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
